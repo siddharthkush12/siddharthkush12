@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Siddharth Kushwaha
 
-<!--
-**siddharthkush12/siddharthkush12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer (MERN) & Android Developer  
+💻 Kotlin | Node.js | MongoDB | Jetpack Compose  
+📈 Solved 400+ DSA problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Final year CSE student  
+- 📱 Building real-time apps (chat, travel, etc.)  
+- ⚡ Love solving problems & building scalable systems  
+
+---
+
+## 🚀 Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+---
+
+## 🔥 Projects
+### 🚀 Travoro – Travel App
+- Real-time chat using Socket.IO  
+- Expense splitting system  
+- Android app with Jetpack Compose  
+- Backend with Node.js & MongoDB  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/yourusername
